@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sachin Fuloria
-- 👀 I’m interested in Web Development,Data Structures and Algorithm,Machine Learning
+- 👀 I’m interested in Web Development and  Data Structures and Algorithm.
 - 🌱 I’m currently learning Algorithms,Backend Developement using NodeJS.
 - 📫 You can reach me to via my email address sachinfuloria9@gmail.com
 - Let's connect on linkedin https://www.linkedin.com/in/sachin-fuloria-14573b202/
