@@ -2,7 +2,7 @@
 
 Hi there! I'm Sachin Fuloria, a passionate Full Stack Developer with deep knowledge in a wide array of technologies. I enjoy building scalable and efficient web applications, and I'm always eager to learn and explore new technologies. Here’s a bit more about what I do and the technologies I work with:
 
-
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 [![My Skills](https://skillicons.dev/icons?i=typescript,nodejs,nestjs,expressjs,graphql,react,nextjs,docker,kubernetes,git,github,postman)](https://skillicons.dev)
 
 ## Technologies & Skills 🚀
