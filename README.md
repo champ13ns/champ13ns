@@ -1,8 +1,11 @@
 # Welcome to My GitHub Profile 👋
 
-Hi there! I'm Sachin Fuloria, a passionate Full Stack Developer with deep knowledge in a wide array of technologies. I enjoy building scalable and efficient web applications, and I'm always eager to learn and explore new technologies. Here’s a bit more about what I do and the technologies I work with:
+Hello! I'm Abasd, a passionate Full Stack Developer with expertise in a wide range of technologies. I love building scalable and efficient web applications and am always excited to learn and explore new technologies.
 
-![Visitor Count](https://profile-counter.glitch.me/champ13ns/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=champ13ns)
+
+## 🚀 Technologies I Work With
+
 [![My Skills](https://skillicons.dev/icons?i=typescript,nodejs,nestjs,expressjs,graphql,react,nextjs,docker,kubernetes,git,github,postman)](https://skillicons.dev)
 
 ## Technologies & Skills 🚀
