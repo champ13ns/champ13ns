@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 👋
 
-Hello! I'm Abasd, a passionate Full Stack Developer with expertise in a wide range of technologies. I love building scalable and efficient web applications and am always excited to learn and explore new technologies.
+Hello! I'm Sachin Fuloria, a passionate Full Stack Developer with expertise in a wide range of technologies. I love building scalable and efficient web applications and am always excited to learn and explore new technologies.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=champ13ns)
 
